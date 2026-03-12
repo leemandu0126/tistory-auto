@@ -1,0 +1,3 @@
+import requests
+
+print("자동 포스팅 테스트")
